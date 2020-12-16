@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CARTELERA>
+    <Pelicula>
+
+        <Titulo> Mujer Maravilla 1984 </Titulo>
+        <Año>2006</Año>
+        <Duracion> 
+                  <horas> 2 </horas>
+                  <minutos> 50 </minutos>
+        </Duracion>
+        <Nacionalidad>Estados Unidos</Nacionalidad>
+        <Genero>Accion</Genero>
+        <Clasificacion>TODO PÚBLICO</Clasificacion>
+        
+        <Director> 
+                  <nombre> Patty </nombre>
+                  <apellido> Jenkins </apellido>
+                  <fechadenacimiento> Julio 23 de 1971
+                     <año> 1971</año>
+                     <mes> Julio </mes>
+                     <dia> 23 </dia>
+                  </fechadenacimiento>                           
+        </Director>
+                
+        <Reparto> 
+            <ActoresPrincipales>
+
+             <NombresOriginales>
+              <Actor1>Gal Gadot </Actor1>
+              <Actor2>Chris Pine </Actor2> 
+              <Actor3>Kristen Wiig</Actor3> 
+              <Actor4>Pedro Pascal</Actor4> 
+              <Actor5>Robin Wright</Actor5> 
+              <Actor6>Connie Nielsen</Actor6>
+             </NombresOriginales>
+
+             <NombreEnPelicula> 
+              <Actor1>Diana Prince</Actor1>
+              <Actor2>Steve Trevor</Actor2> 
+              <Actor3>Bárbara Ann Minerva</Actor3> 
+              <Actor4>Maxwell Lord</Actor4>
+              <Actor5>Antiope</Actor5> 
+              <Actor6>Hipólita</Actor6>
+             </NombreEnPelicula>
+
+           </ActoresPrincipales>
+       </Reparto>
+       <Sinopsis> 
+            'Wonder Woman 1984' llegará a la pantalla grande el próximo 5 de junio de 2020, de nuevo con la actriz israelí Gal Gadot
+             en el papel de la Mujer Maravilla y Patty Jenkins detrás de las cámaras. La secuela de 'Wonder Woman' contará además
+             con el regreso de Chris Pine ('Star Trek. Más allá') como Steve Trevor. La película sigue a Diana en su vida durante
+             los años 80 en Estados Unidos. En esta ocasión, Diana se enfrentará a nuevos enemigos. Su principal antagonista es
+             la arqueóloga británica Barbara Minerva, que será interpretada por Kristen Wigg ('Cazafantasmas'). La científica 
+             tiene un alter ego, la villana Cheetah que tiene una fuerza y agilidad sobrehumanas. Otro enemigo a tener en cuenta
+             será el empresario Maxwel Lord, interpretado por Pedro Pascal ('The Mandalorian'). Este personaje es un arrogante 
+             con la habilidad de manipular a otros a su antojo. En los cómics, Max Lord tiene poderes mentales. También aparecen
+             en esta cinta las guerreras amazonas Antiope (Robin Wright) y la Reina Hippolyta (Connie Nielsen). La trama de esta 
+             película es una gran misterio. El guión está basado en una historia escrita por Patty Jenkins, Geoff Johns ('The Flash',
+             'Aquaman') y Dave Callaham ('Zombieland: Mata y remata'). Se espera que tenga protagonismo la tecnología y la vigilancia,
+             teniendo en cuenta el título que hace referencia a la distopía de '1984' de George Orwell.
+       </Sinopsis>
+    </Pelicula>   
+</CARTELERA>
